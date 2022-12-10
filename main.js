@@ -46,12 +46,12 @@ const textures = {
 	c:new Image(),
 	
 }
-textures.a.src = '1.jpg';
-textures.b.src = '4.png';
-textures.c.src = '3.jpg';
+textures.a.src = 'https://media.discordapp.net/attachments/954314074945114112/1037346813696552960/sTOzbF0QiJw.jpg?width=703&height=612';
+textures.b.src = 'https://media.discordapp.net/attachments/954314074945114112/1051168031826509945/3.jpg';
+textures.c.src = 'https://media.discordapp.net/attachments/954314074945114112/1051168195295318087/1.png';
 
 const sky = new Image();
-sky.src = 'sky.jpg'
+sky.src = 'https://media.discordapp.net/attachments/954314074945114112/1051168343496867921/sky.jpg?width=613&height=613'
 
 
 

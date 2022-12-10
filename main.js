@@ -334,7 +334,6 @@ function rayCast(Px,Py,angle){
 		ctx.drawImage(texture, Math.floor(texture.width * offset / tile), 0,  1,texture.height,
 						i*scale,  h*player.vangle+(h - proj_height)/2, scale,proj_height);
 		ctx.fillStyle = 'rgba(0,0,0,' + c + ')';
-		ctx.fillStyle = 'rgb('+c+','+c+','+c+')';
 		ctx.fillRect(i*scale,  h*player.vangle+(h - proj_height)/2, scale,proj_height);		
 		ctx.fill();
 	

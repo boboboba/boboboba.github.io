@@ -1,5 +1,7 @@
 'use strict'
 
+window.onload = () => {
+
 let		canvas = document.createElement('canvas'), //Создание холста
 		ctx = canvas.getContext('2d'), //создание переменной контекста. Через обращение к ней будет выводиться все изображение
 
@@ -480,3 +482,4 @@ document.addEventListener("mousemove", function (event) {
 canvas.addEventListener("click", () => {
   canvas.requestPointerLock();
 });
+}

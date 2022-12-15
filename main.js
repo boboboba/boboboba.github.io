@@ -46,8 +46,8 @@ const textures = {
 	c:new Image(),
 	
 }
-textures.a.src = 'https://media.discordapp.net/attachments/954314074945114112/1037346813696552960/sTOzbF0QiJw.jpg?width=703&height=612';
-textures.b.src = 'https://media.discordapp.net/attachments/954314074945114112/1051168031826509945/3.jpg';
+textures.a.src = 'https://phonoteka.org/uploads/posts/2021-06/1623135252_9-phonoteka_org-p-pikselnaya-tekstura-kamnya-krasivo-10.png';//'https://media.discordapp.net/attachments/954314074945114112/1037346813696552960/sTOzbF0QiJw.jpg?width=703&height=612';
+textures.b.src = 'https://cdn.pixilart.com/photos/large/f49aff65303fd80.jpg';//'https://media.discordapp.net/attachments/954314074945114112/1051168031826509945/3.jpg';
 textures.c.src = 'https://media.discordapp.net/attachments/954314074945114112/1051168195295318087/1.png';
 
 const sky = new Image();

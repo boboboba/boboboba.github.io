@@ -46,9 +46,9 @@ const textures = {
 	c:new Image(),
 	
 }
-textures.a.src = 'https://phonoteka.org/uploads/posts/2021-06/1623135252_9-phonoteka_org-p-pikselnaya-tekstura-kamnya-krasivo-10.png';//'https://media.discordapp.net/attachments/954314074945114112/1037346813696552960/sTOzbF0QiJw.jpg?width=703&height=612';
-textures.b.src = 'https://cdn.pixilart.com/photos/large/f49aff65303fd80.jpg';//'https://media.discordapp.net/attachments/954314074945114112/1051168031826509945/3.jpg';
-textures.c.src = 'https://media.discordapp.net/attachments/954314074945114112/1051168195295318087/1.png';
+textures.a.src = 'https://cdn.discordapp.com/attachments/954314074945114112/1178601314972864542/IMG_20231127_124033_309.jpg?ex=6576bd02&is=65644802&hm=ae4e7f312b0b1ffc394470118bab2078abf8c37c387332448134ede1c5a8a131&';//'';
+textures.b.src = 'https://cdn.discordapp.com/attachments/954314074945114112/1178601314972864542/IMG_20231127_124033_309.jpg?ex=6576bd02&is=65644802&hm=ae4e7f312b0b1ffc394470118bab2078abf8c37c387332448134ede1c5a8a131&';
+textures.c.src = 'https://cdn.discordapp.com/attachments/954314074945114112/1178601314972864542/IMG_20231127_124033_309.jpg?ex=6576bd02&is=65644802&hm=ae4e7f312b0b1ffc394470118bab2078abf8c37c387332448134ede1c5a8a131&';
 
 const sky = new Image();
 sky.src = 'https://media.discordapp.net/attachments/954314074945114112/1051168343496867921/sky.jpg?width=613&height=613'
